@@ -8,6 +8,8 @@
 
 int main() {
     // this function calculates the sum of 2 user inputs
+
+    // variable declarations
     int firstNumber;
     int secondNumber;
     int answer;
